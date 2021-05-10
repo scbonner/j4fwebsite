@@ -2,29 +2,71 @@
   text-align: center;
 }
 
-.circle {
-  float: left;
-  width: 300px;
-  height: 300px;
-  margin-top: 20px;
-  margin: 30px;
-  shape-outside: circle();
-  clip-path: circle();
-  background: lightblue;
-  text-align: right;
-}
 .circle1 {
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
+   margin-left: 30px; 
   margin: 20px;
   shape-outside: circle();
   clip-path: circle();
   background: lightblue;
-  text-align: right;
+  /* text-align: right; */
+  border-radius: 50%;
+  display: flex;
+
+}
+.circle2 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  shape-outside: circle();
+  clip-path: circle();
+  background: lightblue;
+  /* text-align: right; */
+  border-radius: 50%;
+  display: flex;
 }
 
+.circle3 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  shape-outside: circle();
+  clip-path: circle(); 
+  background: lightblue;
+  /* text-align: right; */
+  border-radius: 50%;
+  display: flex;
+}
+ 
+.circle4 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  shape-outside: circle();
+  clip-path: circle();
+  background: lightblue;
+  /* text-align: right; */
+  border-radius: 50%;
+} 
 
+
+/* 
+.circle {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 50%;
+} */
+/* 
+.circle1 text {
+  margin: center;
+}  */
 
 
 /* 
