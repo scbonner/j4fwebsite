@@ -1,5 +1,8 @@
+import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Circle from './components/Circle';
+//import ReactDOM from 'react-dom'
+
+import Card from './components/Card';
 import Logo from '../src/components/Logo';
 import './App.css';
 
@@ -8,7 +11,7 @@ function App() {
 //rendering logo component, circle
     <div className="App">
     <Logo /> 
-    <Circle />
+    <Card />
     </div>
   );
 }

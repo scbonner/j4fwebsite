@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../image/logo.png';
+import logo from './logo.png';
 
 // import '../App.css';
 // // import { ReactTinyLink } from 'react-tiny-link'
