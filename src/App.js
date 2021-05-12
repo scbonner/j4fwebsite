@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   return (
 //rendering logo component, circle
-    <div className="App">
+    <div className="App"> 
     <Logo /> 
     <Card />
     </div>
