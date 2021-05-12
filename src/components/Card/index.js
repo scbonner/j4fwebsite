@@ -11,7 +11,7 @@ function Card() {
 <>
 <br />
 <br />
-<p><strong>WHO WE ARE</strong></p>
+<h2><strong>WHO WE ARE</strong></h2>
 <br />
 <hr />
 
@@ -53,8 +53,8 @@ function Card() {
         <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       </div>
       <div className="card-footer">
-      <span className="material-icons">account_balance</span>
-        {/* <small className="text-muted">Last updated 3 mins ago</small> */}
+    
+        <small className="text-muted">Last updated 3 mins ago</small> 
       </div>
     </div>
   </div>
