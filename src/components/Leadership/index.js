@@ -18,7 +18,7 @@ function Leadership() {
 
 
 <div className="row row-cols-1 row-cols-md-6 g-4">
-  <div classNames="col">
+  <div className="col">
     <div className="card h-100">
       <img src='https://images.pexels.com/photos/4260325/pexels-photo-4260325.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' className="card-img-top" alt="..."></img>
       <div className="card-body">
@@ -45,6 +45,11 @@ function Leadership() {
   </div>
   </div>
 
+  
+<br />
+<br />
+<br />
+<hr />
 </>   
     
      )

@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 //import ReactDOM from 'react-dom'
 
 import Card from './components/Card';
+import CardFlip from './components/CardFlip';
 import Logo from '../src/components/Logo';
 import Leadership from './components/Leadership'
 import './App.css';
@@ -14,6 +15,7 @@ function App() {
     <Logo /> 
     <Card />
     <Leadership />
+    <CardFlip />
     </div>
   );
 }
