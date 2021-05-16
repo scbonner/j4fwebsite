@@ -15,6 +15,7 @@ function Logo() {
         <img src={logo} height={175} width={400} alt='...'></img>
     </div>
 
+   
     <div>
         <img src='https://images.pexels.com/photos/6190858/pexels-photo-6190858.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940' width='250' alt="..." />
         <img src='https://images.pexels.com/photos/4546144/pexels-photo-4546144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940' width='200' alt="..." />
@@ -38,7 +39,7 @@ function Logo() {
         <br />
         <hr />
     </div>
-       
+      
 </>
     
 

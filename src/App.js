@@ -6,6 +6,7 @@ import Card from './components/Card';
 import CardFlip from './components/CardFlip';
 import Logo from '../src/components/Logo';
 import Leadership from './components/Leadership'
+import Transparency from './components/Transparency';
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <Card />
     <Leadership />
     <CardFlip />
+    <Transparency />
     </div>
   );
 }
